@@ -1,0 +1,9 @@
+Django
+psycopg2-binary
+djangorestframework
+django-extensions
+django-cors-headers
+django-environ
+sentry-sdk
+gunicorn
+coverage
